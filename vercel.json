@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://47.95.13.125:45244/$1"}
+      {"src": "/(.*)","dest": "https://rainydrive.cnrainycloudglobal.pp.ua/$1"}
   ]
 }
