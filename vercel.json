@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://lbeebfaeovtc.ap-southeast-1.clawcloudrun.com//$1"}
+      {"src": "/(.*)","dest": "https://ziyou001-minio.hf.space/$1"}
   ]
 }
