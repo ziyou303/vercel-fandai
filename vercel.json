@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://ziyou001-minio.hf.space/$1"}
+      {"src": "/(.*)","dest": "https://ziyou001-cloudreve.hf.space/$1"}
   ]
 }
